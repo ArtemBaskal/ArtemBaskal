@@ -1,5 +1,5 @@
 ### Hi there 👋
-Let's solve a few LeetCode challenges 💻 🦾
+#### Let's solve a few LeetCode challenges 💻 🦾
 ![Leetcode Stats](https://leetcard.jacoblin.cool/uselessstooge?ext=heatmap)
 
 <!--

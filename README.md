@@ -1,14 +1,13 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/uselessstooge?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ArtemLeet?ext=heatmap)
 
 <details>
 
-<summary>2023 Stats 📊</summary>
+<summary>2023 Rewind</summary>
 
 <h3>
   <a href="https://leetcode.com/rewind/?ref=uselessstooge">Rewind 🌀</a>
 </h3>
-
-<img width="491" alt="main-stats" src="https://github.com/ArtemBaskal/ArtemBaskal/assets/45331104/6fe32f06-b19f-4116-bcae-4f2b35cac21a">
+<img width="491" alt="top-0.6%" src="https://github.com/user-attachments/assets/36d1fbf7-00c5-4866-ba70-adcb29338ecd">
 <br />
 <img width="491" alt="top-0.6%" src="https://github.com/ArtemBaskal/ArtemBaskal/assets/45331104/08468188-18d3-49f3-aa80-ac31c462b4bc">
 
